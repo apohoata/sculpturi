@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>mobilier</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>strana arhiereasca</title>
+            <link>slides/strana arhiereasca.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:52:16 +0200</pubDate>
+            <description>Strana Arhiereasca</description>
+            <media:description type="html">Strana Arhiereasca</media:description>
+            <media:thumbnail url="thumbs/strana arhiereasca.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/strana arhiereasca.png" width="196" height="480"/>
+            <guid isPermaLink="false">slides/strana arhiereasca.png</guid>
+        </item>
+        <item>
+            <title>strana dascal</title>
+            <link>slides/strana dascal.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:52:16 +0200</pubDate>
+            <description>Strana Dascal</description>
+            <media:description type="html">Strana Dascal</media:description>
+            <media:thumbnail url="thumbs/strana dascal.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/strana dascal.png" width="243" height="480"/>
+            <guid isPermaLink="false">slides/strana dascal.png</guid>
+        </item>
+        <item>
+            <title>strana</title>
+            <link>slides/strana.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:52:16 +0200</pubDate>
+            <description>Strana</description>
+            <media:description type="html">Strana</media:description>
+            <media:thumbnail url="thumbs/strana.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/strana.png" width="235" height="480"/>
+            <guid isPermaLink="false">slides/strana.png</guid>
+        </item>
+        <item>
+            <title>tetrapod</title>
+            <link>slides/tetrapod.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:52:16 +0200</pubDate>
+            <description>Tetrapod</description>
+            <media:description type="html">Tetrapod</media:description>
+            <media:thumbnail url="thumbs/tetrapod.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/tetrapod.png" width="193" height="480"/>
+            <guid isPermaLink="false">slides/tetrapod.png</guid>
+        </item>
+        <item>
+            <title>cutia milei</title>
+            <link>slides/cutia milei.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:52:16 +0200</pubDate>
+            <description>Cutia milei</description>
+            <media:description type="html">Cutia milei</media:description>
+            <media:thumbnail url="thumbs/cutia milei.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/cutia milei.png" width="346" height="480"/>
+            <guid isPermaLink="false">slides/cutia milei.png</guid>
+        </item>
+        <item>
+            <title>masa cu crucifix</title>
+            <link>slides/masa cu crucifix.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:52:16 +0200</pubDate>
+            <description>Masa cu crucifix</description>
+            <media:description type="html">Masa cu crucifix</media:description>
+            <media:thumbnail url="thumbs/masa cu crucifix.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/masa cu crucifix.png" width="640" height="478"/>
+            <guid isPermaLink="false">slides/masa cu crucifix.png</guid>
+        </item>
+    </channel>
+</rss>
