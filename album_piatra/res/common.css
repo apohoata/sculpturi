@@ -1,0 +1,95 @@
+body {
+	background-color: #666666;
+	color: #404048;
+}
+
+a:link,
+a:visited {
+	color: #cccccc;
+}
+
+a:active,
+a:hover {
+	color: #999999;
+}
+	
+#folders_container,
+#bottom_container,
+#top_container,
+.top_navigation {
+	border-width: 1px;	
+}
+	
+#right_arrow,
+#left_arrow,
+#right_fast_arrow,
+#left_fast_arrow {
+	height: 40px;
+	width: 20px;
+}
+
+#right_fast_arrow,
+#left_fast_arrow {
+	margin: 0 20px;
+}
+
+#bottom_container {
+	margin-top: 30px;
+}
+	
+#main_image .loader,
+#main_image img {
+	border: solid 10px #000000;
+}
+	
+#extras {
+	border: solid 1px #000000;
+	margin: 10px auto;		
+	padding: 5px;
+}
+
+#extras ul li {
+	border-left-color: #404048;
+}
+
+#bottom_container {
+	border-top-color: #000000;	
+}
+
+#folders_container,
+#top_container,
+.top_navigation {
+	border-bottom-color: #000000;
+}
+
+.description {
+	color: #111111;
+}
+
+.caption {
+	color: #111111;
+}
+
+.thumbnails li {
+	margin: 0 10px 10px 0;	
+	border: solid 1px #000000;
+	background-color: #666666;
+}
+
+.thumbnails li.active {
+  border: solid 1px #cccccc;
+}
+
+.folders li a {
+	background-color: #666666;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	margin-right: 10px;				
+	height: 90px; 
+	width: 90px;
+}
+
+#slideshow {
+	font-size:0.8em;	
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>statuete</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>sfantul iosif</title>
+            <link>slides/sfantul iosif.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:22:58 +0200</pubDate>
+            <description>Sf. Iosif</description>
+            <media:description type="html">Sf. Iosif</media:description>
+            <media:thumbnail url="thumbs/sfantul iosif.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/sfantul iosif.png" width="188" height="480"/>
+            <guid isPermaLink="false">slides/sfantul iosif.png</guid>
+        </item>
+        <item>
+            <title>drumetul</title>
+            <link>slides/drumetul.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:22:58 +0200</pubDate>
+            <description>Drumetul</description>
+            <media:description type="html">Drumetul</media:description>
+            <media:thumbnail url="thumbs/drumetul.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/drumetul.png" width="207" height="480"/>
+            <guid isPermaLink="false">slides/drumetul.png</guid>
+        </item>
+        <item>
+            <title>madona cu pruncul</title>
+            <link>slides/madona cu pruncul.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:22:58 +0200</pubDate>
+            <description>Fecioara Maria cu pruncul Iisus</description>
+            <media:description type="html">Fecioara Maria cu pruncul Iisus</media:description>
+            <media:thumbnail url="thumbs/madona cu pruncul.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/madona cu pruncul.png" width="193" height="480"/>
+            <guid isPermaLink="false">slides/madona cu pruncul.png</guid>
+        </item>
+        <item>
+            <title>nasterea domnului mare</title>
+            <link>slides/nasterea domnului mare.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:22:58 +0200</pubDate>
+            <description>Nasterea Domnului</description>
+            <media:description type="html">Nasterea Domnului</media:description>
+            <media:thumbnail url="thumbs/nasterea domnului mare.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/nasterea domnului mare.png" width="640" height="410"/>
+            <guid isPermaLink="false">slides/nasterea domnului mare.png</guid>
+        </item>
+        <item>
+            <title>pastorul</title>
+            <link>slides/pastorul.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:22:58 +0200</pubDate>
+            <description>Pastorul</description>
+            <media:description type="html">Pastorul</media:description>
+            <media:thumbnail url="thumbs/pastorul.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/pastorul.png" width="170" height="480"/>
+            <guid isPermaLink="false">slides/pastorul.png</guid>
+        </item>
+        <item>
+            <title>paznicul</title>
+            <link>slides/paznicul.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:22:58 +0200</pubDate>
+            <description>Paznicul</description>
+            <media:description type="html">Paznicul</media:description>
+            <media:thumbnail url="thumbs/paznicul.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/paznicul.png" width="180" height="480"/>
+            <guid isPermaLink="false">slides/paznicul.png</guid>
+        </item>
+        <item>
+            <title>Sf</title>
+            <link>slides/Sf.png#</link>
+            <pubDate>Wed, 31 Oct 2012 15:22:58 +0200</pubDate>
+            <description>Florianul</description>
+            <media:description type="html">Florianul</media:description>
+            <media:thumbnail url="thumbs/Sf.png" width="90" height="90"/>
+            <media:content type="image/gif" url="slides/Sf.png" width="201" height="480"/>
+            <guid isPermaLink="false">slides/Sf.png</guid>
+        </item>
+    </channel>
+</rss>

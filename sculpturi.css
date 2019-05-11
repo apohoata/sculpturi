@@ -1,0 +1,26 @@
+/* CSS Document */
+body {background-color:  #663300;}
+.meniugeneral {font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; font-size: 14px; color: #351B00 }/*stilul ce caracterizeaza meniul din partea stanga a paginii*/
+.homeprezlucrari{font-family: "Palatino Linotype", serif;font-size: 14px;color: #351B00}/*stilul ce caracterizeaza textul detaliat aferent paragrafelor din partea stanga a paginii de home*/
+.homeprezlucrarititlu{font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 18px;font-weight: bold;}/*stilul ce caracterizeaza titlul paragrafelor din partea stanga a paginii de home*/
+.hometitlu {font-size: 24px;font-weight: bold; text-decoration:underline; color:#663300;}/*stilul ce caracterizeaza tilul paragrafelor centrale din pagina de home*/
+.homeprezentare {font-family:"Palatino Linotype"; font-size: 16px; color:#3C1E00}/*stilul ce caracterizeaza detalierea paragrafelor centrale din pagina de home*/
+
+
+.a1:link{font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; font-size: 14px; color: #351B00; text-decoration:none}
+.a1:visited{font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; font-size: 14px; color: #351B00; text-decoration:none}
+.a1:hover{font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; font-size: 14px; color: #351B00; text-decoration:underline}
+.a1:active{font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; font-size: 14px; color: #351B00; text-decoration:underline}
+
+.continuare {font-size: 18px; color:#000066; text-decoration:none}
+.copyright {color: #FFCC66;	font-weight: bold;}
+
+.a2:link{font-family: "Palatino Linotype", Times, serif;font-size: 14px;color: #351B00; text-decoration:none}
+.a2:visited{font-family: "Palatino Linotype", Times, serif;font-size: 14px;color: #351B00; text-decoration:none}
+.a2:hover{font-family: "Palatino Linotype", Times, serif;font-size: 14px;color: #351B00; text-decoration:underline}
+.a2:active{font-family: "Palatino Linotype", Times, serif;font-size: 14px;color: #351B00; text-decoration:underline}
+
+.a3:link{font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 18px;font-weight: bold;color: #351B00; text-decoration:none}
+.a3:visited{font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 18px;font-weight: bold;color: #351B00; text-decoration:none}
+.a3:hover{font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 18px;font-weight: bold;color: #351B00; text-decoration:underline}
+.a3:active{font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 18px;font-weight: bold;color: #351B00; text-decoration:underline}
